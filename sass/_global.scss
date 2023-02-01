@@ -63,6 +63,10 @@ h3{
     background-color: rgb(134, 132, 132);
 }
 
+.btn-secundario:hover{
+    background-color: rgb(172, 172, 172);
+}
+
 // Mixins
 
 @mixin caja-flex($principal, $cruzado, $wrap){
